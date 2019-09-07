@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 allnightnippon.com##[class$="_ad"]
+amazon.co.jp##[class*="-Ad-"]
 amazon.co.jp##[id*="-ad-"]
 asahi.com##[class="AdBlock"]
 asahi.com##[class="AdMod"]
