@@ -24,6 +24,7 @@
 ||ads.rubiconproject.com^
 ||adservice.google.co.jp^
 ||adservice.google.com^
+||adxadtracker.com^
 ||aff.jskyservices.com^
 ||affiliate.dtiserv.com^
 ||affiliate.fc2.com^
