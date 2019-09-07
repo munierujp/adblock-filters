@@ -3,7 +3,7 @@
 ! Title:adblock-filters-element-global
 ! Last modified:
 ! Expires: 1 days (update frequency)
-! Homepage:https://munieru.jp
+! Homepage:https://github.com/munierujp/adblock-filters
 !
 ##[class="adsbygoogle"]
 ##[id^="div-gpt-ad-"]
