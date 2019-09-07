@@ -3,7 +3,7 @@
 ! Title:adblock-filters-element-sites
 ! Last modified:
 ! Expires: 1 days (update frequency)
-! Homepage:https://munieru.jp
+! Homepage:https://github.com/munierujp/adblock-filters
 !
 allnightnippon.com##[class$="_ad"]
 amazon.co.jp##[id*="-ad-"]
