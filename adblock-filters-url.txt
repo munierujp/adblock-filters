@@ -1,0 +1,52 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:adblock-filters-url
+! Last modified:
+! Expires: 1 days (update frequency)
+! Homepage:https://munieru.jp
+!
+||a-ads.com^
+||a-i-ad.com^
+||ad-arata.com^
+||ad-splash.jp^
+||ad-stir.com^
+||ad.*.valuecommerce.com^
+||ad.duga.jp^
+||ad.hatena.ne.jp^
+||ad.linksynergy.com^
+||ad.netowl.jp^
+||ads-twitter.com^
+||ads.ck101.com/^
+||ads.exoclick.com^
+||ads.exosrv.com^
+||ads.nicovideo.jp^
+||ads.rubiconproject.com^
+||adservice.google.co.jp^
+||adservice.google.com^
+||aff.jskyservices.com^
+||affiliate.dtiserv.com^
+||affiliate.fc2.com^
+||affiliate.rakuten.co.jp^
+||afl.rakuten.co.jp^
+||bee-ads.com^
+||dmm.com/af^
+||fam-ad.com^
+||google.com/*/*-ads.js
+||googleadservices.com^
+||impact-ad.jp^
+||itmedia.jp/adsv^
+||mouse-jp.co.jp/affiliate^
+||pcmax.jp/*/affiliate/^
+||sbs-ad.com^
+||smv.to/ad^
+||speee-ad.akamaized.net^
+||speee-ad.jp^
+||ssl-images-amazon.com/*/ads^
+||tokyo-tube-ad.com^
+||twimg.com/ad_img^
+||webtracker.jp/ad^
+||yads.*.yahoo.co.jp^
+||yads.*.yimg.jp^
+||yimg.jp/*/adparts^
+||yimg.jp/*/advertising^
+||yimg.jp/*/yads^
