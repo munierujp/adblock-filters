@@ -7,6 +7,7 @@
 !
 allnightnippon.com##[class$="_ad"]
 amazon.co.jp##[class*="-Ad-"]
+amazon.co.jp##[class="ad"]
 amazon.co.jp##[id*="-ad-"]
 amazon.co.jp##[id^="ad-"]
 asahi.com##[class="AdBlock"]
