@@ -6,6 +6,7 @@
 ! Homepage:https://munieru.jp
 !
 ||*.i-mobile.co.jp/ad_creative.ashx^
+||*.trafficjunky.net
 ||a-ads.com^
 ||a-i-ad.com^
 ||ad-arata.com^
