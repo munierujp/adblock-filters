@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://munieru.jp
 !
+||*.i-mobile.co.jp/ad_creative.ashx^
 ||a-ads.com^
 ||a-i-ad.com^
 ||ad-arata.com^
