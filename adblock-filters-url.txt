@@ -3,7 +3,7 @@
 ! Title:adblock-filters-url
 ! Last modified:
 ! Expires: 1 days (update frequency)
-! Homepage:https://munieru.jp
+! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.trafficjunky.net
