@@ -35,6 +35,7 @@
 ||dmm.com/af^
 ||fam-ad.com^
 ||google.com/*/*-ads.js
+||googleads.*.doubleclick.net^
 ||googleadservices.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
