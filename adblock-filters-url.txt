@@ -9,6 +9,8 @@
 ||*.amazon-adsystem.com^
 ||*.criteo.com^
 ||*.doubleclick.net^
+||*.googlesyndication.com/*/adsbygoogle.js^
+||*.googlesyndication.com/pagead^
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.microad.jp^
 ||*.trafficjunky.net
