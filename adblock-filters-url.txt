@@ -15,6 +15,7 @@
 ||*.microad.jp^
 ||*.microad.net^
 ||*.trafficjunky.net
+||*.valuecommerce.com/ad^
 ||a-ads.com^
 ||a-i-ad.com^
 ||ad-arata.com^
