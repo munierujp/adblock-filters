@@ -13,6 +13,7 @@
 ||*.googlesyndication.com/pagead^
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.microad.jp^
+||*.microad.net^
 ||*.trafficjunky.net
 ||a-ads.com^
 ||a-i-ad.com^
