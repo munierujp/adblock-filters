@@ -45,6 +45,7 @@
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||mouse-jp.co.jp/affiliate^
+||pagead2.googlesyndication.com^
 ||pcmax.jp/*/affiliate/^
 ||sbs-ad.com^
 ||smv.to/ad^
