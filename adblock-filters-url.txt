@@ -6,6 +6,9 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.adingo.jp^
+||*.adnxs.com^
+||*.adtechus.com^
+||*.advertising.com^
 ||*.amazon-adsystem.com^
 ||*.criteo.com^
 ||*.doubleclick.net^
@@ -14,6 +17,8 @@
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.microad.jp^
 ||*.microad.net^
+||*.moatads.com^
+||*.popin.cc^
 ||*.trafficjunky.net
 ||*.valuecommerce.com/ad^
 ||a-ads.com^
@@ -27,6 +32,7 @@
 ||ad.linksynergy.com^
 ||ad.netowl.jp^
 ||ads-twitter.com^
+||ads.*.yahoo.com^
 ||ads.ck101.com/^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
