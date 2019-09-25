@@ -16,6 +16,7 @@
 ||*.googlesyndication.com/*/adsbygoogle.js^
 ||*.googlesyndication.com/pagead^
 ||*.i-mobile.co.jp/ad_creative.ashx^
+||*.impactradius-go.com/*-ad^
 ||*.microad.jp^
 ||*.microad.net^
 ||*.moatads.com^
