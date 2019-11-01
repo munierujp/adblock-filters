@@ -17,6 +17,7 @@
 ||*.googlesyndication.com/pagead^
 ||*.i-mobile.co.jp^
 ||*.impactradius-go.com/*-ad^
+||*.mediad2.jp^
 ||*.microad.jp^
 ||*.microad.net^
 ||*.moatads.com^
