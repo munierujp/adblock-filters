@@ -15,7 +15,7 @@
 ||*.genieesspv.jp^
 ||*.googlesyndication.com/*/adsbygoogle.js^
 ||*.googlesyndication.com/pagead^
-||*.i-mobile.co.jp/ad_creative.ashx^
+||*.i-mobile.co.jp^
 ||*.impactradius-go.com/*-ad^
 ||*.microad.jp^
 ||*.microad.net^
