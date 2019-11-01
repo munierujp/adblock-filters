@@ -33,6 +33,7 @@
 ||ad.hatena.ne.jp^
 ||ad.linksynergy.com^
 ||ad.netowl.jp^
+||adm.shinobi.jp^
 ||ads-twitter.com^
 ||ads.*.yahoo.com^
 ||ads.ck101.com/^
