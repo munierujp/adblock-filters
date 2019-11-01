@@ -24,6 +24,7 @@
 ||*.popin.cc^
 ||*.trafficjunky.net
 ||*.valuecommerce.com/ad^
+||*.xsrv.jp/ad^
 ||a-ads.com^
 ||a-i-ad.com^
 ||ad-arata.com^
