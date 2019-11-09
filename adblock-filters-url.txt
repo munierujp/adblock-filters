@@ -11,6 +11,7 @@
 ||*.adtechus.com^
 ||*.advertising.com^
 ||*.amazon-adsystem.com^
+||*.click-plus.net^
 ||*.criteo.com^
 ||*.doubleclick.net^
 ||*.genieesspv.jp^
