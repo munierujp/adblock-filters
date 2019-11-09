@@ -53,6 +53,7 @@
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||bee-ads.com^
+||blogparts.dmm.com^
 ||dmm.com/af^
 ||fam-ad.com^
 ||google.com/*/*-ads.js
