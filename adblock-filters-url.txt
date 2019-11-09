@@ -7,6 +7,7 @@
 !
 ||*.adingo.jp^
 ||*.adnxs.com^
+||*.adroll.com^
 ||*.adtechus.com^
 ||*.advertising.com^
 ||*.amazon-adsystem.com^
