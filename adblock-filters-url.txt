@@ -30,6 +30,7 @@
 ||*.valuecommerce.com/ad^
 ||*.xsrv.jp/ad^
 ||a-ads.com^
+||a-affiliate.jp^
 ||a-i-ad.com^
 ||ad-arata.com^
 ||ad-splash.jp^
