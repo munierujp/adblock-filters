@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+||*.a8.net^
 ||*.adingo.jp^
 ||*.adnxs.com^
 ||*.adroll.com^
