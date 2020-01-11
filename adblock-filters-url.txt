@@ -30,6 +30,7 @@
 ||*.trafficjunky.net
 ||*.valuecommerce.com/ad^
 ||*.xsrv.jp/ad^
+||*.zucks.net.zimg.jp^
 ||a-ads.com^
 ||a-affiliate.jp^
 ||a-i-ad.com^
