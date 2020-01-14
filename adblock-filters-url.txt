@@ -20,6 +20,7 @@
 ||*.googlesyndication.com/pagead^
 ||*.i-mobile.co.jp^
 ||*.impactradius-go.com/*-ad^
+||*.jads.co^
 ||*.juicyads.com^
 ||*.maist.jp^
 ||*.mediad2.jp^
