@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+##amp-ad
 ##[class="adsbygoogle"]
 ##[id^="div-gpt-ad-"]
 ##[id="seesaa-bnr"]
