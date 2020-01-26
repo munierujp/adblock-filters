@@ -9,6 +9,7 @@
 ##[class="adsbygoogle"]
 ##[id^="div-gpt-ad-"]
 ##[id="seesaa-bnr"]
+afpbb.com##[class*=" ad "]
 alc.co.jp##[class="adbox"]
 allnightnippon.com##[class$="_ad"]
 amazon.co.jp##[class*="-Ad-"]
