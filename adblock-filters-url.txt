@@ -28,7 +28,7 @@
 ||*.microad.net^
 ||*.moatads.com^
 ||*.popin.cc^
-||*.trafficjunky.net
+||*.trafficjunky.net^
 ||*.valuecommerce.com/ad^
 ||*.xsrv.jp/ad^
 ||*.zucks.net.zimg.jp^
@@ -64,7 +64,7 @@
 ||blogparts.dmm.com^
 ||dmm.com/af^
 ||fam-ad.com^
-||google.com/*/*-ads.js
+||google.com/*/*-ads.js^
 ||googleads.*.doubleclick.net^
 ||googleadservices.com^
 ||impact-ad.jp^
@@ -72,7 +72,7 @@
 ||mouse-jp.co.jp/affiliate^
 ||pagead2.googlesyndication.com^
 ||pc-adroute.focas.jp^
-||pcmax.jp/*/affiliate/^
+||pcmax.jp/*/affiliate^
 ||sbs-ad.com^
 ||smv.to/ad^
 ||speee-ad.akamaized.net^
