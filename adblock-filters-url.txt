@@ -28,6 +28,7 @@
 ||*.microad.net^
 ||*.moatads.com^
 ||*.popin.cc^
+||*.socdm.com/adsv^
 ||*.trafficjunky.net^
 ||*.trafficfactory.biz^
 ||*.valuecommerce.com/ad^
