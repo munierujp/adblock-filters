@@ -29,6 +29,7 @@
 ||*.moatads.com^
 ||*.popin.cc^
 ||*.trafficjunky.net^
+||*.trafficfactory.biz^
 ||*.valuecommerce.com/ad^
 ||*.xsrv.jp/ad^
 ||*.zucks.net.zimg.jp^
