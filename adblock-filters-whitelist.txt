@@ -6,3 +6,5 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 @@||localhost:*/$document
+
+! test
