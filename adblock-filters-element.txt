@@ -8,7 +8,7 @@
 ##amp-ad
 ##[class="adsbygoogle"]
 ##[id^="div-gpt-ad-"]
-##[id="fc2_bottom_bnr"]Z
+##[id="fc2_bottom_bnr"]
 ##[id="seesaa-bnr"]
 5ch.net##[class^="ad--"]
 afpbb.com##[class*=" ad "]
