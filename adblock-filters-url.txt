@@ -29,6 +29,7 @@
 ||*.microad.net^
 ||*.moatads.com^
 ||*.popin.cc^
+||*.servedby-buysellads.com^
 ||*.socdm.com/adsv^
 ||*.trafficjunky.net^
 ||*.trafficfactory.biz^
