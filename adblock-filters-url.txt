@@ -12,6 +12,7 @@
 ||*.adtechus.com^
 ||*.advertising.com^
 ||*.amazon-adsystem.com^
+||*.carbonads.com^
 ||*.click-plus.net^
 ||*.criteo.com^
 ||*.doubleclick.net^
