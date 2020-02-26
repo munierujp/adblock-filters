@@ -28,6 +28,7 @@
 ||*.microad.jp^
 ||*.microad.net^
 ||*.moatads.com^
+||*.moshimo.com/af-img^
 ||*.popin.cc^
 ||*.servedby-buysellads.com^
 ||*.socdm.com/adsv^
