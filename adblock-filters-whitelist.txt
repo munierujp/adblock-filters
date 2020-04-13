@@ -5,4 +5,3 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
-@@||localhost:*/$document
