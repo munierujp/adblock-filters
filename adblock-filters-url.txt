@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+||*.2chan.net/ad^
 ||*.a8.net^
 ||*.adingo.jp^
 ||*.adnxs.com^
@@ -84,6 +85,7 @@
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||ssl-images-amazon.com/*/ads^
+||syndication.exosrv.com/ads-iframe-display.php^
 ||tokyo-tube-ad.com^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
