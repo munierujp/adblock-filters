@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version:
-! Title:adblock-filters-exception
+! Title:@munierujp/exception
 ! Last modified:
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
