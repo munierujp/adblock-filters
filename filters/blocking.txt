@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version:
-! Title:adblock-filters-url
+! Title:adblock-filters-blocking
 ! Last modified:
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
