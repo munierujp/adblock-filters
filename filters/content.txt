@@ -5,10 +5,6 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
-##[class="adsbygoogle"]
-##[id^="div-gpt-ad-"]
-##[id="fc2_bottom_bnr"]
-##[id="seesaa-bnr"]
 ##amp-ad
 5ch.net##[class^="ad--"]
 afpbb.com##[class*=" ad "]
