@@ -6,3 +6,4 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 @@||inoreader.com/$document
+@@||localhost:*/$document
