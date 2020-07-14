@@ -6,4 +6,6 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ##amp-ad
+b.hatena.ne.jp##[class*="-ad-"]
+b.hatena.ne.jp##[id$="-ad"]
 www.asahi.com##[id="HometopAd"]
