@@ -55,4 +55,5 @@
 ||tokyo-tube-ad.com^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
+||ws-fe.amazon-adsystem.com^
 ||yads.yjtag.yahoo.co.jp^
