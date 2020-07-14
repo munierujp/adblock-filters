@@ -14,6 +14,7 @@
 ||ad.crwdcntrl.net^
 ||ad.duga.jp^
 ||ad.hatena.ne.jp^
+||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^
 ||ad.netowl.jp^
 ||aax-fe-sin.amazon-adsystem.com^
