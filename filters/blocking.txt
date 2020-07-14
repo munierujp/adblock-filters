@@ -43,6 +43,7 @@
 ||mouse-jp.co.jp/affiliate^
 ||pagead2.googlesyndication.com^
 ||pc-adroute.focas.jp^
+||rcm-fe.amazon-adsystem.com^
 ||s.yimg.jp/images/advertising^
 ||sbs-ad.com^
 ||smv.to/ad^
