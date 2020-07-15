@@ -41,7 +41,6 @@
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||mouse-jp.co.jp/affiliate^
-||pagead2.googlesyndication.com^
 ||pc-adroute.focas.jp^
 ||rcm-fe.amazon-adsystem.com^
 ||s.yimg.jp/images/advertising^
