@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+||*.amazon-adsystem.com^
 ||a-ads.com^
 ||a-affiliate.jp^
 ||a-i-ad.com^
@@ -17,7 +18,6 @@
 ||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^
 ||ad.netowl.jp^
-||aax-fe-sin.amazon-adsystem.com^
 ||adm.shinobi.jp^
 ||ads-twitter.com^
 ||ads.ck101.com/^
@@ -42,7 +42,6 @@
 ||itmedia.jp/adsv^
 ||mouse-jp.co.jp/affiliate^
 ||pc-adroute.focas.jp^
-||rcm-fe.amazon-adsystem.com^
 ||s.yimg.jp/images/advertising^
 ||sbs-ad.com^
 ||smv.to/ad^
@@ -54,5 +53,4 @@
 ||tokyo-tube-ad.com^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
-||ws-fe.amazon-adsystem.com^
 ||yads.yjtag.yahoo.co.jp^
