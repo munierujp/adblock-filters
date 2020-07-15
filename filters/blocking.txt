@@ -13,6 +13,7 @@
 ||ad-splash.jp^
 ||ad-stir.com^
 ||ad.crwdcntrl.net^
+||ad.doubleclick.net^
 ||ad.duga.jp^
 ||ad.hatena.ne.jp^
 ||ad.jp.ap.valuecommerce.com^
