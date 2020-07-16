@@ -26,6 +26,7 @@
 ||ads.exoclick.com^
 ||ads.exosrv.com^
 ||ads.nicovideo.jp^
+||ads.pubmatic.com^
 ||ads.rubiconproject.com^
 ||adservice.google.co.jp^
 ||adservice.google.com^
