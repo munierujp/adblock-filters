@@ -18,6 +18,7 @@
 ||ad.hatena.ne.jp^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.linksynergy.com^
+||ad.lkqd.net^
 ||ad.netowl.jp^
 ||adm.shinobi.jp^
 ||ads-twitter.com^
