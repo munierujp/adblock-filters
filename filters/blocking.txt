@@ -22,6 +22,7 @@
 ||ad.netowl.jp^
 ||adm.shinobi.jp^
 ||ads-twitter.com^
+||ads.as.criteo.com^
 ||ads.ck101.com/^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
