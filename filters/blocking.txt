@@ -29,8 +29,11 @@
 ||ads.nicovideo.jp^
 ||ads.pubmatic.com^
 ||ads.rubiconproject.com^
+||ads.yap.yahoo.com^
+||adserver.adtechjp.com^
 ||adservice.google.co.jp^
 ||adservice.google.com^
+||advertising.aolp.jp^
 ||adxadtracker.com^
 ||aff.jskyservices.com^
 ||affiliate.dtiserv.com^
