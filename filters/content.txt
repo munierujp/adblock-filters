@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ##[class="adsbygoogle"]
+##[id^="div-gpt-ad-"]
 ##[id^="google_ads_iframe_/"]
 allabout.co.jp##[id*="_ads_"]
 ameblo.jp##[class$="-entryAd"]
