@@ -50,6 +50,7 @@
 ||mouse-jp.co.jp/affiliate^
 ||pc-adroute.focas.jp^
 ||s.yimg.jp/images/advertising^
+||s8t.teads.tv^
 ||sbs-ad.com^
 ||smv.to/ad^
 ||spcdnsp.i-mobile.co.jp/ad_creative.ashx^
