@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.amazon-adsystem.com^
+||*.i-mobile.co.jp/ad_creative.ashx^
 ||360asp.click^
 ||a-ads.com^
 ||a-affiliate.jp^
@@ -54,7 +55,6 @@
 ||s8t.teads.tv^
 ||sbs-ad.com^
 ||smv.to/ad^
-||spcdnsp.i-mobile.co.jp/ad_creative.ashx^
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||syndication.exosrv.com/ads-iframe-display.php^
