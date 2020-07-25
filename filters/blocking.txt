@@ -57,6 +57,8 @@
 ||smv.to/ad^
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
+||static.criteo.net^
+||static.zucks.net.zimg.jp^
 ||syndication.exosrv.com/ads-iframe-display.php^
 ||tg.socdm.com/adsv^
 ||tokyo-tube-ad.com^
