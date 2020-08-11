@@ -46,6 +46,9 @@
 ||bee-ads.com^
 ||dmm.com/af^
 ||fam-ad.com^
+||google.co.jp/ads^
+||google.com/ads^
+||google.com/pagead^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||impact-ad.jp^
