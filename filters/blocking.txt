@@ -52,6 +52,7 @@
 ||googleadservices.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
+||microad.jp^
 ||mouse-jp.co.jp/affiliate^
 ||pc-adroute.focas.jp^
 ||s.yimg.jp/images/advertising^
