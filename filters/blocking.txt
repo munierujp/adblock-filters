@@ -13,6 +13,7 @@
 ||a-affiliate.jp^
 ||a-i-ad.com^
 ||ad-arata.com^
+||ad-m.asia^
 ||ad-splash.jp^
 ||ad-stir.com^
 ||ad.crwdcntrl.net^
