@@ -51,6 +51,7 @@
 ||google.com/ads^
 ||google.com/pagead^
 ||googleadservices.com^
+||googlesyndication.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||microad.jp^
