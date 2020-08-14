@@ -57,6 +57,7 @@
 ||googlesyndication.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
+||juicyads.com^
 ||microad.jp^
 ||mouse-jp.co.jp/affiliate^
 ||pc-adroute.focas.jp^
