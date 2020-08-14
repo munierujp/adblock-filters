@@ -37,6 +37,7 @@
 ||adservice.google.co.jp^
 ||adservice.google.com^
 ||advertising.aolp.jp^
+||adxadserv.com^
 ||adxadtracker.com^
 ||aff.jskyservices.com^
 ||affiliate.dtiserv.com^
