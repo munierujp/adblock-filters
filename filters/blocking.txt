@@ -39,6 +39,7 @@
 ||advertising.aolp.jp^
 ||adxadserv.com^
 ||adxadtracker.com^
+||adxxx.info^
 ||aff.jskyservices.com^
 ||affiliate.dtiserv.com^
 ||affiliate.fc2.com^
