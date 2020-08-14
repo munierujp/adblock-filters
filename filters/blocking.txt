@@ -43,6 +43,7 @@
 ||affiliate.fc2.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
+||ap.octopuspop.com/deliver^
 ||bee-ads.com^
 ||dmm.com/af^
 ||doubleclick.net^
