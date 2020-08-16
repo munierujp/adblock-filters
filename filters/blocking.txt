@@ -8,6 +8,8 @@
 ||*.a8.net^
 ||*.amazon-adsystem.com^
 ||*.i-mobile.co.jp/ad_creative.ashx^
+||*.trafficfactory.biz^
+||*.trafficjunky.net^
 ||360asp.click^
 ||a-ads.com^
 ||a-affiliate.jp^
