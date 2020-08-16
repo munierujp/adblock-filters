@@ -74,5 +74,6 @@
 ||tokyo-tube-ad.com^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
+||www.google.com/afs/ads^
 ||yads.c.yimg.jp^
 ||yads.yjtag.yahoo.co.jp^
