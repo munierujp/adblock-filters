@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.a8.net^
+||*.adingo.jp^
 ||*.amazon-adsystem.com^
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.trafficfactory.biz^
