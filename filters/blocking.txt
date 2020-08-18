@@ -8,6 +8,7 @@
 ||*.a8.net^
 ||*.adingo.jp^
 ||*.amazon-adsystem.com^
+||*.carbonads.net^
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.trafficfactory.biz^
 ||*.trafficjunky.net^
