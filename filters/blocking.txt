@@ -6,9 +6,13 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.a8.net^
+||*.ad-spire.net^
 ||*.adingo.jp^
+||*.adnico.jp^
+||*.adroll.com^
 ||*.amazon-adsystem.com^
 ||*.carbonads.net^
+||*.click-plus.net^
 ||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.microad.net^
 ||*.trafficfactory.biz^
@@ -66,6 +70,7 @@
 ||juicyads.com^
 ||microad.jp^
 ||mouse-jp.co.jp/affiliate^
+||neppa-dsp-ad.com^
 ||pc-adroute.focas.jp^
 ||s.yimg.jp/images/advertising^
 ||s8t.teads.tv^
