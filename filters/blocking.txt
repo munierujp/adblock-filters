@@ -13,7 +13,6 @@
 ||*.amazon-adsystem.com^
 ||*.carbonads.net^
 ||*.click-plus.net^
-||*.i-mobile.co.jp/ad_creative.ashx^
 ||*.microad.net^
 ||*.trafficfactory.biz^
 ||*.trafficjunky.net^
