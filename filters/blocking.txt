@@ -13,6 +13,7 @@
 ||*.amazon-adsystem.com^
 ||*.carbonads.net^
 ||*.click-plus.net^
+||*.gsspat.jp^
 ||*.microad.net^
 ||*.trafficfactory.biz^
 ||*.trafficjunky.net^
