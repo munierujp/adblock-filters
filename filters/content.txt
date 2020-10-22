@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+##amp-ad
 ##[class="adsbygoogle"]
 *.watch.impress.co.jp##[class^="ad "]
 *.watch.impress.co.jp##[class="ad billboard"]
