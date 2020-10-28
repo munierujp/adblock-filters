@@ -10,6 +10,7 @@
 ||*.adingo.jp^
 ||*.adnico.jp^
 ||*.adroll.com^
+||*.adskeeper.co.uk^
 ||*.adtrue.com^
 ||*.amazon-adsystem.com^
 ||*.carbonads.net^
