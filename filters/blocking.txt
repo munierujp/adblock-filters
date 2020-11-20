@@ -44,6 +44,7 @@
 ||ads.nicovideo.jp^
 ||ads.pubmatic.com^
 ||ads.rubiconproject.com^
+||ads.stickyadstv.com^
 ||ads.yap.yahoo.com^
 ||adserver.adtechjp.com^
 ||adservice.google.co.jp^
