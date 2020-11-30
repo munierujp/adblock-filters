@@ -46,6 +46,7 @@
 ||afl.rakuten.co.jp^
 ||ap.octopuspop.com/deliver^
 ||bee-ads.com^
+||c.amazon-adsystem.com^
 ||dmm.com/af^
 ||doubleclick.net^
 ||fam-ad.com^
