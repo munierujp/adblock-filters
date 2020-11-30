@@ -8,7 +8,6 @@
 ##amp-ad
 ##[class="adsbygoogle"]
 ##[id^="div-gpt-ad-"]
-*.watch.impress.co.jp##[class^="ad "]
 allabout.co.jp##[id*="_ads_"]
 ameblo.jp##[class*="-entryAd "]
 ameblo.jp##[class$="-entryAd"]
