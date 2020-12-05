@@ -62,6 +62,7 @@
 ||mouse-jp.co.jp/affiliate^
 ||neppa-dsp-ad.com^
 ||pc-adroute.focas.jp^
+||pcmax.jp/image/affiliate^
 ||s.yimg.jp/images/advertising^
 ||s8t.teads.tv^
 ||sbs-ad.com^
