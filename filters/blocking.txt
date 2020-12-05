@@ -70,6 +70,8 @@
 ||s8t.teads.tv^
 ||sbs-ad.com^
 ||smv.to/ad^
+||spcdnpc.i-mobile.co.jp/ad_creative.ashx^
+||spdeliver.i-mobile.co.jp/script/ads.js^
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||static.criteo.net^
