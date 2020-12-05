@@ -35,6 +35,7 @@
 ||adserver.adtechjp.com^
 ||adservice.google.co.jp^
 ||adservice.google.com^
+||adtrue.com^
 ||advertising.aolp.jp^
 ||adxadserv.com^
 ||adxadtracker.com^
