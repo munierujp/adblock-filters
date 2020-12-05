@@ -74,6 +74,8 @@
 ||syndication.exosrv.com/ads-iframe-display.php^
 ||tg.socdm.com/adsv^
 ||tokyo-tube-ad.com^
+||trafficjunky.com^
+||trafficjunky.net^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
 ||www.google.com/afs/ads^
