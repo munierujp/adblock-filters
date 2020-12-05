@@ -48,6 +48,7 @@
 ||ap.octopuspop.com/deliver^
 ||bee-ads.com^
 ||c.amazon-adsystem.com^
+||cdnegc.trafficfactory.biz/banners^
 ||dmm.com/af^
 ||doubleclick.net^
 ||fam-ad.com^
