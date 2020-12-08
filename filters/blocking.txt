@@ -58,6 +58,7 @@
 ||google.com/pagead^
 ||googleadservices.com^
 ||googlesyndication.com^
+||img.ad-nex.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||juicyads.com^
