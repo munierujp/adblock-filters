@@ -61,6 +61,7 @@
 ||img.ad-nex.com^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
+||js.isboost.co.jp^
 ||juicyads.com^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
