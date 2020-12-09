@@ -62,6 +62,7 @@
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||js.isboost.co.jp^
+||js.smac-ad.com^
 ||juicyads.com^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
