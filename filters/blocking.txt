@@ -90,3 +90,4 @@
 ||www.google.com/afs/ads^
 ||yads.c.yimg.jp^
 ||yads.yjtag.yahoo.co.jp^
+||z.moatads.com^
