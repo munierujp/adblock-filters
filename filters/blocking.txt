@@ -88,6 +88,7 @@
 ||trafficjunky.com^
 ||trafficjunky.net^
 ||twimg.com/ad_img^
+||wcsad.valuecommerce.com/ad^
 ||webtracker.jp/ad^
 ||www.google.com/afs/ads^
 ||yads.c.yimg.jp^
