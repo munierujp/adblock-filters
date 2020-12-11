@@ -46,6 +46,7 @@
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||ap.octopuspop.com/deliver^
+||api.popin.cc^
 ||bee-ads.com^
 ||c.amazon-adsystem.com^
 ||cdnegc.trafficfactory.biz/banners^
