@@ -59,6 +59,7 @@
 ||googleadservices.com^
 ||googlesyndication.com^
 ||img.ad-nex.com^
+||img.gsspat.jp^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||js.adnico.jp^
