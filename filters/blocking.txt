@@ -21,6 +21,7 @@
 ||ad.lkqd.net^
 ||ad.netowl.jp^
 ||adcdn.goo.ne.jp^
+||adingo.jp^
 ||adm.shinobi.jp^
 ||ads-twitter.com^
 ||ads.as.criteo.com^
