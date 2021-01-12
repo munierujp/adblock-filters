@@ -67,6 +67,7 @@
 ||js.adnico.jp^
 ||js.isboost.co.jp^
 ||js.smac-ad.com^
+||js.sprout-ad.com^
 ||juicyads.com^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
