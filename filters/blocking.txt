@@ -58,7 +58,6 @@
 ||ap.octopuspop.com^
 ||api.popin.cc^
 ||bee-ads.com^
-||cdnegc.trafficfactory.biz/banners^
 ||dmm.com/af^
 ||doubleclick.net^
 ||fam-ad.com^
