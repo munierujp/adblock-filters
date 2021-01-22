@@ -55,7 +55,7 @@
 ||affiliate.fc2.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
-||ap.octopuspop.com/deliver^
+||ap.octopuspop.com^
 ||api.popin.cc^
 ||bee-ads.com^
 ||cdnegc.trafficfactory.biz/banners^
