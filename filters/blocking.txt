@@ -9,9 +9,10 @@
 ||*.adnico.jp^
 ||*.amazon-adsystem.com^
 ||*.i-mobile.co.jp^
+||*.moatads.com^
 ||*.smac-ad.com^
 ||*.sprout-ad.com^
-||*.moatads.com^
+||*.trafficfactory.biz^
 ||360asp.click^
 ||a-ads.com^
 ||a-affiliate.jp^
