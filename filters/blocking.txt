@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.ad-nex.com^
+||*.adnxs.com^
 ||*.adnico.jp^
 ||*.amazon-adsystem.com^
 ||*.criteo.net^
