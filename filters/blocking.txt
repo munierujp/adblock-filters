@@ -70,7 +70,6 @@
 ||dmm.com/af^
 ||doubleclick.net^
 ||fam-ad.com^
-||google-analytics.com/analytics.js^
 ||google.co.jp/ads^
 ||google.com/ads^
 ||google.com/pagead^
