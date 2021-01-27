@@ -11,6 +11,7 @@
 ||*.amazon-adsystem.com^
 ||*.criteo.net^
 ||*.i-mobile.co.jp^
+||*.microad.net^
 ||*.moatads.com^
 ||*.octopuspop.com^
 ||*.reemo-ad.jp^
