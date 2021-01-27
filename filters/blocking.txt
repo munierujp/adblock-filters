@@ -8,6 +8,7 @@
 ||*.ad-nex.com^
 ||*.adnxs.com^
 ||*.adnico.jp^
+||*.adpicker.net^
 ||*.amazon-adsystem.com^
 ||*.criteo.net^
 ||*.i-mobile.co.jp^
