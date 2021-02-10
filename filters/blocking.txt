@@ -19,6 +19,7 @@
 ||*.moatads.com^
 ||*.octopuspop.com^
 ||*.reemo-ad.jp^
+||*.servedby-buysellads.com^
 ||*.smac-ad.com^
 ||*.socdm.com/adsv^
 ||*.sprout-ad.com^
