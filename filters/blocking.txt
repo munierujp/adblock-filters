@@ -11,6 +11,7 @@
 ||*.adnico.jp^
 ||*.adpicker.net^
 ||*.amazon-adsystem.com^
+||*.carbonads.com^
 ||*.criteo.net^
 ||*.i-mobile.co.jp^
 ||*.microad.net^
