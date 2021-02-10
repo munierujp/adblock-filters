@@ -88,6 +88,7 @@
 ||pc-adroute.focas.jp^
 ||pcmax.jp/image/affiliate^
 ||popin.cc^
+||pubpress.net/houseads^
 ||sbs-ad.com^
 ||smv.to/ad^
 ||speee-ad.akamaized.net^
