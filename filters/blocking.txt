@@ -96,6 +96,7 @@
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||syndication.exosrv.com/ads-iframe-display.php^
+||syndication.realsrv.com/ads-iframe-display.php^
 ||tokyo-tube-ad.com^
 ||trafficjunky.com^
 ||trafficjunky.net^
