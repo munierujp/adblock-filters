@@ -8,3 +8,4 @@
 @@||inoreader.com/$document
 @@||localhost:*/$document
 @@||munieru.jp/$document
+@@||yahoo.co.jp/$document
