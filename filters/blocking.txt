@@ -81,6 +81,7 @@
 ||googleadservices.com^
 ||googlesyndication.com^
 ||gsspat.jp^
+||image.moshimo.com/af-img^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||juicyads.com^
