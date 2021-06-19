@@ -10,6 +10,7 @@
 ||*.adnxs.com^
 ||*.adnico.jp^
 ||*.adpicker.net^
+||*.adtruedsp.com^
 ||*.amazon-adsystem.com^
 ||*.buysellads.net^
 ||*.carbonads.com^
