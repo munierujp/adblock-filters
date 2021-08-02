@@ -90,6 +90,7 @@
 ||microad.jp^
 ||mouse-jp.co.jp/affiliate^
 ||neppa-dsp-ad.com^
+||outbrain.com^
 ||pc-adroute.focas.jp^
 ||pcmax.jp/image/affiliate^
 ||popin.cc^
