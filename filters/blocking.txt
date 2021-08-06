@@ -106,6 +106,7 @@
 ||trafficjunky.net^
 ||twimg.com/ad_img^
 ||webtracker.jp/ad^
+||widget-view.dmm.co.jp^
 ||www.google.com/afs/ads^
 ||yads.c.yimg.jp^
 ||yads.yjtag.yahoo.co.jp^
