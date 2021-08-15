@@ -73,6 +73,7 @@
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||bee-ads.com^
+||cst.cstwpush.com/static/adManager.js
 ||dmm.com/af^
 ||doubleclick.net^
 ||fam-ad.com^
