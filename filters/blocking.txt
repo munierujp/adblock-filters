@@ -70,6 +70,7 @@
 ||aff.jskyservices.com^
 ||affiliate.dtiserv.com^
 ||affiliate.fc2.com^
+||affiliate.konibet.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
 ||bee-ads.com^
