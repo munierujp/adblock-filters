@@ -7,8 +7,8 @@
 !
 ||*.a8.net^
 ||*.ad-nex.com^
-||*.adnxs.com^
 ||*.adnico.jp^
+||*.adnxs.com^
 ||*.adpicker.net^
 ||*.adtruedsp.com^
 ||*.amazon-adsystem.com^
@@ -63,6 +63,7 @@
 ||adservice.google.co.jp^
 ||adservice.google.com^
 ||adtrue.com^
+||advertisement.b-cdn.net^
 ||advertising.aolp.jp^
 ||adxadserv.com^
 ||adxadtracker.com^
