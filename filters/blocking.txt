@@ -74,6 +74,7 @@
 ||affiliate.konibet.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
+||asp.m-live.jp^
 ||bee-ads.com^
 ||cst.cstwpush.com/static/adManager.js
 ||dmm.com/af^
