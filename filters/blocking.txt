@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||*.a8.net^
+||*.aaddcount.com
 ||*.ad-nex.com^
 ||*.ad-spire.net^
 ||*.adnico.jp^
