@@ -37,6 +37,7 @@
 ||a-i-ad.com^
 ||ad-arata.com^
 ||ad-m.asia^
+||ad-spire.genieesspv.jp^
 ||ad-splash.jp^
 ||ad-stir.com^
 ||ad.crwdcntrl.net^
