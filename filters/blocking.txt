@@ -92,6 +92,7 @@
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||juicyads.com^
+||mediad2.jp^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
 ||mouse-jp.co.jp/affiliate^
