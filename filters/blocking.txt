@@ -9,6 +9,7 @@
 ||*.aaddcount.com
 ||*.ad-nex.com^
 ||*.ad-spire.net^
+||*.adform.net^
 ||*.adnico.jp^
 ||*.adnxs.com^
 ||*.adpicker.net^
