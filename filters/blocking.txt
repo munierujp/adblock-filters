@@ -18,6 +18,7 @@
 ||*.buysellads.net^
 ||*.carbonads.com^
 ||*.criteo.net^
+||*.genieesspv.jp^
 ||*.gsspcln.jp^
 ||*.i-mobile.co.jp^
 ||*.microad.net^
