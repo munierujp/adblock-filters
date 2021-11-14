@@ -85,6 +85,7 @@
 ||cdn.gmossp-sp.jp/ads^
 ||cst.cstwpush.com/static/adManager.js
 ||dmm.com/af^
+||dogma-annex.com/media/affiliate^
 ||doubleclick.net^
 ||fam-ad.com^
 ||google.co.jp/ads^
