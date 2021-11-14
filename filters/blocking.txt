@@ -82,6 +82,7 @@
 ||afl.rakuten.co.jp^
 ||asp.m-live.jp^
 ||bee-ads.com^
+||cdn.gmossp-sp.jp/ads^
 ||cst.cstwpush.com/static/adManager.js
 ||dmm.com/af^
 ||doubleclick.net^
