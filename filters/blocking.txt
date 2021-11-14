@@ -59,6 +59,7 @@
 ||ads.ck101.com/^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
+||ads.mediams.mb.softbank.jp^
 ||ads.nicovideo.jp^
 ||ads.pubmatic.com^
 ||ads.rubiconproject.com^
