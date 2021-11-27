@@ -15,6 +15,7 @@
 ||*.adpicker.net^
 ||*.adtruedsp.com^
 ||*.amazon-adsystem.com^
+||*.bannerbridge.net^
 ||*.buysellads.net^
 ||*.carbonads.com^
 ||*.criteo.net^
