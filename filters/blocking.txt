@@ -64,7 +64,7 @@
 ||ads-twitter.com^
 ||ads.as.criteo.com^
 ||ads.bullionyield.com^
-||ads.ck101.com/^
+||ads.ck101.com^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
 ||ads.mediams.mb.softbank.jp^
