@@ -16,6 +16,7 @@
 ||*.adtruedsp.com^
 ||*.amazon-adsystem.com^
 ||*.bannerbridge.net^
+||*.bidgear.com/ads.php^
 ||*.buysellads.net^
 ||*.carbonads.com^
 ||*.criteo.net^
