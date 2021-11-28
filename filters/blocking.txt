@@ -62,7 +62,7 @@
 ||adingo.jp^
 ||adm.shinobi.jp^
 ||ads-twitter.com^
-||ads.as.criteo.com^
+||ads.*.criteo.com^
 ||ads.bullionyield.com^
 ||ads.ck101.com^
 ||ads.exoclick.com^
