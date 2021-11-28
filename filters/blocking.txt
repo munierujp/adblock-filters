@@ -40,7 +40,7 @@
 ||*.teads.tv^
 ||*.trafficfactory.biz^
 ||*.valuecommerce.com/ad^
-||*.yimg.jp/images/advertising^
+||*.yimg.jp/*/advertising^
 ||*.zucks.net.zimg.jp^
 ||360asp.click^
 ||a-ads.com^
