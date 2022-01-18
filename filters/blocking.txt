@@ -89,6 +89,7 @@
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
 ||juicyads.com^
+||link-a.net/banner^
 ||mediad2.jp^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
