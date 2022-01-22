@@ -121,6 +121,7 @@
 ||trafficjunky.net^
 ||twimg.com/ad_img^
 ||valuecommerce.com/ad^
+||web.ssp.yahoo.com/admax^
 ||webtracker.jp/ad^
 ||widget-view.dmm.co.jp^
 ||yads.*.yahoo.co.jp^
