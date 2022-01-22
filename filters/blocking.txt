@@ -88,6 +88,7 @@
 ||i-mobile.co.jp^
 ||impact-ad.jp^
 ||itmedia.jp/adsv^
+||jill.fc.yahoo.com/v2/ads^
 ||juicyads.com^
 ||link-a.net/banner^
 ||mediad2.jp^
