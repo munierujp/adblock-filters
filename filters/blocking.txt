@@ -92,6 +92,7 @@
 ||jp.xero.porn/videoAd^
 ||juicyads.com^
 ||link-a.net/banner^
+||media.thisvid.com/js/advertising.js^
 ||mediad2.jp^
 ||mexa.sh/advertisements.js^
 ||microad.jp^
