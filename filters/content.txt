@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 5ch.net##[class^="ad-"]
+activo.jp##[id*="-ad-"]
 allabout.co.jp##[id*="_ads_"]
 ameblo.jp##[class*="-entryAd "]
 ameblo.jp##[class$="-entryAd"]
