@@ -106,6 +106,7 @@
 ||pc-adroute.focas.jp^
 ||pcmax.jp/*/affiliate^
 ||popin.cc^
+||poweredby.jads.co/adshow.php^
 ||pubpress.net/houseads^
 ||realsrv.com/ads-iframe-display.php^
 ||reemo-ad.jp^
