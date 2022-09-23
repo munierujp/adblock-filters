@@ -43,6 +43,7 @@
 ||ads.exosrv.com^
 ||ads.nicovideo.jp^
 ||ads.pubmatic.com^
+||ads.realsrv.com^
 ||ads.rubiconproject.com^
 ||ads.stickyadstv.com^
 ||adserver.adtechjp.com^
