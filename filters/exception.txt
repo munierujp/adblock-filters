@@ -7,4 +7,5 @@
 !
 @@||inoreader.com/$document
 @@||localhost:*/$document
+@@||munieru.app/$document
 @@||munieru.jp/$document
