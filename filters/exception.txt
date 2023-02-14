@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 @@||inoreader.com/$document
+@@||kaibunmaker.com/$document
 @@||localhost:*/$document
 @@||munieru.app/$document
 @@||munieru.jp/$document
