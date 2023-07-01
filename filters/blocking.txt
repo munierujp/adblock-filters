@@ -6,6 +6,7 @@
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
 ||360asp.click^
+||a.realsrv.com/ad-provider.js^
 ||a-ads.com^
 ||a-affiliate.jp^
 ||a-i-ad.com^
