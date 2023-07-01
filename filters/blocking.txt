@@ -108,6 +108,7 @@
 ||pcmax.jp/*/affiliate^
 ||popin.cc^
 ||poweredby.jads.co/adshow.php^
+||poweredby.jads.co/js/jads.js^
 ||pubpress.net/houseads^
 ||realsrv.com/ads-iframe-display.php^
 ||reemo-ad.jp^
