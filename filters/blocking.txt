@@ -34,6 +34,7 @@
 ||adnico.jp^
 ||adnxs.com^
 ||adpicker.net^
+||ads-pixiv.net^
 ||ads-twitter.com^
 ||ads.*.criteo.com^
 ||ads.*.softbank.jp^
