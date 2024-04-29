@@ -77,6 +77,7 @@
 ||dogma-annex.com/*/affiliate^
 ||doubleclick.net^
 ||exosrv.com/ads-iframe-display.php^
+||fam-8.net/ad^
 ||fam-ad.com^
 ||genieesspv.jp^
 ||gmossp-sp.jp/ads^
