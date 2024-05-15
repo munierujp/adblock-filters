@@ -8,5 +8,6 @@
 @@||inoreader.com/$document
 @@||kaibunmaker.com/$document
 @@||localhost:*/$document
+@@||mexa.sh/$document
 @@||munieru.app/$document
 @@||munieru.jp/$document
