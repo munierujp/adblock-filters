@@ -9,6 +9,5 @@
 @@||kaibunmaker.com/$document
 @@||kotobank.jp/*^$document
 @@||localhost:*/$document
-@@||mexa.sh/$document
 @@||munieru.app/$document
 @@||munieru.jp/$document
