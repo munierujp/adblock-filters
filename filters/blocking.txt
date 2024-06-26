@@ -24,6 +24,7 @@
 ||ad.crwdcntrl.net^
 ||ad.duga.jp^
 ||ad.hatena.ne.jp^
+||ad.impactify.io^
 ||ad.linksynergy.com^
 ||ad.lkqd.net^
 ||ad.netowl.jp^
