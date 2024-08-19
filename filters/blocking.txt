@@ -108,6 +108,7 @@
 ||neppa-dsp-ad.com^
 ||octopuspop.com^
 ||outbrain.com^
+||p.potaufeu.asahi.com/maidonanews/pc/js/add_infeed_ads_pc.js^
 ||pc-adroute.focas.jp^
 ||pcmax.jp/*/affiliate^
 ||popin.cc^
