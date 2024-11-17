@@ -11,3 +11,4 @@
 @@||localhost:*/$document
 @@||munieru.app/$document
 @@||munieru.jp/$document
+@@||wordclouds.com$document
