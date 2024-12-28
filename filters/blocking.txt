@@ -87,6 +87,7 @@
 ||google.com/*/ads^
 ||google.com/ads^
 ||google.com/pagead^
+||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||googlesyndication.com^
 ||gsspat.jp^
