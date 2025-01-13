@@ -106,7 +106,6 @@
 ||outbrain.com^
 ||p.potaufeu.asahi.com/maidonanews/pc/js/add_infeed_ads_pc.js^
 ||pc-adroute.focas.jp^
-||pcmax.jp/*/affiliate^
 ||popin.cc^
 ||poweredby.jads.co/adshow.php^
 ||poweredby.jads.co/js/jads.js^
