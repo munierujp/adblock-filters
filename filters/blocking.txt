@@ -71,7 +71,6 @@
 ||carbonads.com^
 ||criteo.net^
 ||dmm.com/af^
-||dogma-annex.com/*/affiliate^
 ||doubleclick.net^
 ||exosrv.com/ads-iframe-display.php^
 ||fam-8.net/ad^
