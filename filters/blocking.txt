@@ -20,7 +20,6 @@
 ||ad-spire.net^
 ||ad-splash.jp^
 ||ad-stir.com^
-||ad.*.valuecommerce.com^
 ||ad.adsrvr.org^
 ||ad.crwdcntrl.net^
 ||ad.duga.jp^
