@@ -70,7 +70,6 @@
 ||buysellads.net^
 ||carbonads.com^
 ||criteo.net^
-||cstwpush.com/*/adManager.js^
 ||dmm.com/af^
 ||dogma-annex.com/*/affiliate^
 ||doubleclick.net^
