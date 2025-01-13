@@ -140,6 +140,7 @@
 ||widget-view.dmm.co.jp^
 ||www.google.co.jp/pagead^
 ||yads.*.yahoo.co.jp^
+||yads.yjtag.yahoo.co.jp^
 ||yads.*.yimg.jp^
 ||yimg.jp/*/advertising^
 ||zucks.net.zimg.jp^
