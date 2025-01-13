@@ -79,7 +79,6 @@
 ||gmossp-sp.jp/ads^
 ||google.co.jp/ads^
 ||google.co.jp/pagead^
-||google.com/*/ads^
 ||google.com/ads^
 ||google.com/pagead^
 ||googleads.g.doubleclick.net^
