@@ -37,7 +37,6 @@
 ||adpicker.net^
 ||ads-pixiv.net^
 ||ads-twitter.com^
-||ads.*.yahoo.com^
 ||ads.bullionyield.com^
 ||ads.ck101.com^
 ||ads.exoclick.com^
