@@ -37,7 +37,6 @@
 ||adpicker.net^
 ||ads-pixiv.net^
 ||ads-twitter.com^
-||ads.*.criteo.com^
 ||ads.*.softbank.jp^
 ||ads.*.yahoo.com^
 ||ads.bullionyield.com^
