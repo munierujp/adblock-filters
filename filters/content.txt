@@ -25,6 +25,7 @@ booklog.jp##[id$="-ad"]
 bunshun.jp##[id*="-ad-"]
 buzz-plus.com##[class^="ad-"]
 ciatr.jp##[id*="-ad-"]
+cinema.aeoncinema.com##.gtm-cookie-consent
 cinema.ne.jp##.addHead
 codezine.jp##[class^="ad_"]
 codezine.jp##[id^="ad_"]
