@@ -188,6 +188,7 @@ tabelog.com##[class^="ad-"]
 tabelog.com##[id*="-ad-"]
 taishu.jp##[class*="_ad_"]
 taishu.jp##[class^="ad-"]
+theater.aeoncinema.com##.gtm-cookie-consent
 thesaurus.weblio.jp##[class*="-ads-"]
 thesaurus.weblio.jp##[id*="-ad-"]
 thesaurus.weblio.jp##[id*="-ads-"]
