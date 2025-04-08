@@ -132,5 +132,6 @@
 ||webtracker.jp/ad^
 ||widget-view.dmm.co.jp^
 ||www.google.co.jp/pagead^
+||yads.c.yimg.jp^
 ||yads.yjtag.yahoo.co.jp^
 ||zucks.net.zimg.jp^
