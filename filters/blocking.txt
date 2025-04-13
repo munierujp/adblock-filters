@@ -116,6 +116,7 @@
 ||s.yimg.jp/images/listing/tool/yads^
 ||sbs-ad.com^
 ||servedby-buysellads.com^
+||server.jp1media.com/bid/ad^
 ||smac-ad.com^
 ||smv.to/ad^
 ||socdm.com/adsv^
