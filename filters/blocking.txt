@@ -122,6 +122,7 @@
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||sprout-ad.com^
+||ssp.getallmedia.com/ad^
 ||teads.tv^
 ||tokyo-tube-ad.com^
 ||trafficfactory.biz^
