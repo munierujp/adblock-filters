@@ -364,6 +364,5 @@ www.zakzak.co.jp##[id*="-ad-"]
 xtech.nikkei.com##[class$="_ad"]
 xtrend.nikkei.com##.ad
 xtrend.nikkei.com##[id*="-ad-"]
-yahoo.co.jp##[id^="yads_"]
 youpouch.com##.ad
 youpouch.com##[id*="-ad-"]
