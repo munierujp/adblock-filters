@@ -365,6 +365,5 @@ xtech.nikkei.com##[class$="_ad"]
 xtrend.nikkei.com##.ad
 xtrend.nikkei.com##[id*="-ad-"]
 yahoo.co.jp##[id^="yads_"]
-yahoo.co.jp##[id$="_ad"]
 youpouch.com##.ad
 youpouch.com##[id*="-ad-"]
