@@ -112,6 +112,7 @@
 ||pubpress.net/houseads^
 ||realsrv.com/ads-iframe-display.php^
 ||reemo-ad.jp^
+||s.yimg.jp/images/advertising^
 ||s.yimg.jp/images/listing/tool/yads^
 ||sbs-ad.com^
 ||servedby-buysellads.com^
