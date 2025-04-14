@@ -12,4 +12,5 @@
 @@||localhost:*/$document
 @@||munieru.app/$document
 @@||munieru.jp/$document
+@@||natalie.mu^$document
 @@||wordclouds.com$document
