@@ -5,6 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:https://github.com/munierujp/adblock-filters
 !
+##[data-google-query-id][data-vignette-loaded="true"]
 5ch.net##[class^="ad-"]
 activo.jp##[id*="-ad-"]
 allabout.co.jp##[id*="_ads_"]
