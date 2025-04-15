@@ -46,7 +46,6 @@ dictionary.cambridge.org##[id^="ad_"]
 dogatch.jp##.ad
 dot.asahi.com##[id*="-ad-"]
 e-words.jp##[class="ad"]
-eiga.com##[data-google-query-id][data-anchor-status="displayed"][data-anchor-shown="true"]
 eiga.com##[class^="adBox-"]
 eiga.com##[id*="_ads_"]
 eiga.com##[id*="-ad-"]
