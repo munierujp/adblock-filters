@@ -152,6 +152,7 @@ news.nifty.com##[class="adsbygoogle"]
 news.nifty.com##[id*="-ad-"]
 news.tv-asahi.co.jp##[class^="ad_"]
 news.yahoo.co.jp##.adWrap
+newsdig.tbs.co.jp##[class^="ad_"]
 nlab.itmedia.co.jp##[id*="-ad-"]
 nordot.app##[id*="-ads-"]
 nordot.app##[id^="ad_"]
