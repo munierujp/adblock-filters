@@ -29,6 +29,7 @@
 ||adm.shinobi.jp^
 ||ads-pixiv.net^
 ||ads-twitter.com^
+||ads.as.criteo.com^
 ||ads.bullionyield.com^
 ||ads.ck101.com^
 ||ads.exoclick.com^
