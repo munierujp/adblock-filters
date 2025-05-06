@@ -50,6 +50,7 @@
 ||amazon-adsystem.com^
 ||bee-ads.com^
 ||bidgear.com/ads.php^
+||deliver.ads2.iid.jp^
 ||dmm.com/af^
 ||exosrv.com/ads-iframe-display.php^
 ||fam-8.net/ad^
