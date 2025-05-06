@@ -89,4 +89,5 @@
 ||webtracker.jp/ad^
 ||www.google.co.jp/pagead^
 ||yads.c.yimg.jp^
+||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
