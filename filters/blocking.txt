@@ -52,6 +52,7 @@
 ||amazon-adsystem.com^
 ||bee-ads.com^
 ||bidgear.com/ads.php^
+||cdn-guile.akamaized.net/interstitial/ad^
 ||deliver.ads2.iid.jp^
 ||dmm.com/af^
 ||exosrv.com/ads-iframe-display.php^
