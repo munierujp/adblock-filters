@@ -86,6 +86,7 @@
 ||speee-ad.jp^
 ||sprout-ad.com^
 ||ssp.getallmedia.com/ad^
+||static.affiliate.rakuten.co.jp^
 ||tokyo-tube-ad.com^
 ||twimg.com/ad_img^
 ||valuecommerce.com/ad^
