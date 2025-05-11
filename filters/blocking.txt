@@ -91,6 +91,7 @@
 ||valuecommerce.com/ad^
 ||webtracker.jp/ad^
 ||www.google.co.jp/pagead^
+||xml.affiliate.rakuten.co.jp^
 ||yads.c.yimg.jp^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
