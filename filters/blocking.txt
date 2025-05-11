@@ -17,6 +17,7 @@
 ||ad-spire.net^
 ||ad-splash.jp^
 ||ad-stir.com^
+||ad.ad-stir.com^
 ||ad.adsrvr.org^
 ||ad.crwdcntrl.net^
 ||ad.duga.jp^
