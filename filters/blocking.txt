@@ -9,6 +9,7 @@
 ||a-ads.com^
 ||a-affiliate.jp^
 ||a-i-ad.com^
+||aax-fe-sin.amazon-adsystem.com^
 ||ad-arata.com^
 ||ad-arrow.com^
 ||ad-m.asia^
