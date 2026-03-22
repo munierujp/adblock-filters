@@ -69,6 +69,7 @@
 ||googleadservices.com^
 ||html5.adsrvr.org^
 ||impact-ad.jp^
+||j.amoad.com^
 ||j.microad.net^
 ||jill.fc.yahoo.com/v2/ads^
 ||jp.xero.porn/videoAd^
