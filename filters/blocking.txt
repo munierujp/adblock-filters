@@ -50,6 +50,7 @@
 ||affiliate.konibet.com^
 ||affiliate.rakuten.co.jp^
 ||afl.rakuten.co.jp^
+||aladdin.genieesspv.jp^
 ||amazon-adsystem.com^
 ||bee-ads.com^
 ||bidgear.com/ads.php^
