@@ -42,6 +42,7 @@ detail.chiebukuro.yahoo.co.jp##[id*="-ad-"]
 diamond-rm.net##[id*="-ad-"]
 diamond.jp##[class*="-ad-"]
 dic.nicovideo.jp##[class^="ad-"]
+dic.nicovideo.jp##[class="kyujin-box-pc-container"]
 dic.pixiv.net##[id$="_ad"]
 dictionary.cambridge.org##[id^="ad_"]
 dogatch.jp##.ad
